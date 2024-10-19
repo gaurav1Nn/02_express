@@ -1,0 +1,23 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "a simple maager for  different tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "gaurav nilawar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
